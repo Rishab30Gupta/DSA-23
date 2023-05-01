@@ -1,1 +1,1 @@
- c b bc a ac ab abc 
+5 8 
